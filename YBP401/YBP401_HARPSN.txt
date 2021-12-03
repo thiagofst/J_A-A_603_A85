@@ -1,0 +1,3 @@
+time,mnvel,errvel,tel,svalue
+2456694.520940,33.1934,0.012,HARPSN,\nodata
+2456697.491230,33.2130,0.009,HARPSN,\nodata
